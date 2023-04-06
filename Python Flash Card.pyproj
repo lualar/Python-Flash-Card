@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="FrenchWords.py" />
     <Compile Include="Python_Flash_Card.py" />
   </ItemGroup>
   <ItemGroup>
